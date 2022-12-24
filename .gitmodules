@@ -13,3 +13,6 @@
 [submodule "phonebook_java_grpc_vm"]
 	path = phonebook_java_grpc_vm
 	url = https://github.com/SimonWilmotsIIW/phonebook_java_grpc_vm.git
+[submodule "planetapi_nextjs"]
+	path = planetapi_nextjs
+	url = https://github.com/SimonWilmotsIIW/planetapi_nextjs.git
