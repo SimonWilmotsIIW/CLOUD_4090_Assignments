@@ -10,3 +10,6 @@
 [submodule "philosophyapi_python_graphql_docker"]
 	path = philosophyapi_python_graphql_docker
 	url = https://github.com/SimonWilmotsIIW/philosophyapi_python_graphql_docker.git
+[submodule "phonebook_java_grpc_vm"]
+	path = phonebook_java_grpc_vm
+	url = https://github.com/SimonWilmotsIIW/phonebook_java_grpc_vm.git
