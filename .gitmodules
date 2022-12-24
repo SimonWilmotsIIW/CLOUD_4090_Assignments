@@ -7,3 +7,6 @@
 [submodule "pollapp_nodejs_websocket_docker"]
 	path = pollapp_nodejs_websocket_docker
 	url = https://github.com/SimonWilmotsIIW/pollapp_nodejs_websocket_docker.git
+[submodule "philosophyapi_python_graphql_docker"]
+	path = philosophyapi_python_graphql_docker
+	url = https://github.com/SimonWilmotsIIW/philosophyapi_python_graphql_docker.git
