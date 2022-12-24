@@ -1,3 +1,6 @@
 [submodule "rocketwiki_laravel_rest_docker"]
 	path = rocketwiki_laravel_rest_docker
 	url = https://github.com/SimonWilmotsIIW/rocketwiki_laravel_rest_docker.git
+[submodule "nutritioncalculator_csharp_soap_docker"]
+	path = nutritioncalculator_csharp_soap_docker
+	url = https://github.com/SimonWilmotsIIW/nutritioncalculator_csharp_soap_docker.git
