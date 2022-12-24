@@ -4,3 +4,6 @@
 [submodule "nutritioncalculator_csharp_soap_docker"]
 	path = nutritioncalculator_csharp_soap_docker
 	url = https://github.com/SimonWilmotsIIW/nutritioncalculator_csharp_soap_docker.git
+[submodule "pollapp_nodejs_websocket_docker"]
+	path = pollapp_nodejs_websocket_docker
+	url = https://github.com/SimonWilmotsIIW/pollapp_nodejs_websocket_docker.git
