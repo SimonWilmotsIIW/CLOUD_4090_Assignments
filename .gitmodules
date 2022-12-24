@@ -16,3 +16,6 @@
 [submodule "planetapi_nextjs"]
 	path = planetapi_nextjs
 	url = https://github.com/SimonWilmotsIIW/planetapi_nextjs.git
+[submodule "robotcommunicator_python_websocket"]
+	path = robotcommunicator_python_websocket
+	url = https://github.com/SimonWilmotsIIW/robotcommunicator_python_websocket.git
