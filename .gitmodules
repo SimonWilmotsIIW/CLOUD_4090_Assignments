@@ -1,0 +1,3 @@
+[submodule "rocketwiki_laravel_rest_docker"]
+	path = rocketwiki_laravel_rest_docker
+	url = https://github.com/SimonWilmotsIIW/rocketwiki_laravel_rest_docker.git
