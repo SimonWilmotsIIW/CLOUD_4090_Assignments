@@ -19,3 +19,6 @@
 [submodule "robotcommunicator_python_websocket"]
 	path = robotcommunicator_python_websocket
 	url = https://github.com/SimonWilmotsIIW/robotcommunicator_python_websocket.git
+[submodule "binaryconverter_hapi_docker"]
+	path = binaryconverter_hapi_docker
+	url = https://github.com/SimonWilmotsIIW/binaryconverter_hapi_docker.git
