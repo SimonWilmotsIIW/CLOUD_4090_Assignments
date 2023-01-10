@@ -38,5 +38,6 @@
 N.v.t.
 
 ### 1x creatief concept van SOA/MSA verzinnen en beschrijven
-
-TODO
+* [PDF](./creatief-concept_SOA-MSA.pdf)  
+* [Wordbestand](./creatief-concept_SOA-MSA.docx)  
+* [Markdown](./creatief-concept_SOA-MSA.md)  
